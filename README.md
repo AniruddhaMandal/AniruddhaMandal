@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniruddhaMandal
 - 👀 I’m interested in Machine Learening, Deep Learning, Mathematics
-- 🌱 I’m currently working on Secure Deep Learning Models
+- 🌱 I’m currently working on Over-Squashing problem in Graph Neural Networks
 - 💞️ I’m looking to collaborate on ML or Deep Learning projects
 - 📫 Mail me at ani96dh@gmail.com or DM me at aniruddhamandal on Instagram
 
